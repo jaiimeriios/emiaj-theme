@@ -1,8 +1,11 @@
-//Obscuro    191e2a
-//claro      1d2331
-//Textos     c7ccd6
+- BASE COLORS -
 
-//verde      38b89c
-//amarillo   ffcc66
-
-//hover      191e2a
+  obscuro azul   
+  mas obscuro       111623
+  bg medio          191e2a
+  claro             1d2331
+  
+  Textos            c7ccd6
+  verde             38b89c
+  amarillo          ffcc66
+  hover             191e2a
