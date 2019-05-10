@@ -2,7 +2,7 @@
 
   obscuro azul   
   mas obscuro       111623
-  bg medio          191e2a
+  bg medio          151b27
   claro             1d2331
   
   Textos            c7ccd6
