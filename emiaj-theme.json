@@ -63,7 +63,7 @@
 	"inputValidation.warningBackground": "#1f2430",
 	"inputValidation.warningBorder": "#ffd580",
 	"editor.background": "#1d2331",
-	"editor.foreground": "#cbccc6",
+	"editor.foreground": "#cecece",
 	"editorLineNumber.foreground": "#a3aec4",
 	"editorLineNumber.activeForeground": "#bac3d6",
 	"editorCursor.foreground": "#38b89c",
@@ -214,7 +214,7 @@
 				"storage.type.class.js"
 			],
 			"settings": {
-				"foreground": "#c5a5c5"
+				"foreground": "#c678dd"
 			}
 		},
 		{
@@ -334,7 +334,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#c5a5c5"
+				"foreground": "#c678dd"
 			}
 		},
 		{
