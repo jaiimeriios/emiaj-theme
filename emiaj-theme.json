@@ -11,8 +11,7 @@
     "editor.renderControlCharacters": false,
     "terminal.integrated.cursorStyle": "line",
     "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
-    "window.zoomLevel": 0.1,
-    "prettier.tabWidth": 4,
+    "window.zoomLevel": -0.1,
     "projectManager.git.maxDepthRecursion": 5,
     "workbench.colorCustomizations": {
         // top titlebar
