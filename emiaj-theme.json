@@ -168,23 +168,6 @@
 	// terminal
 	"terminal.background": "#141414",
 	"terminal.foreground": "#cbccc6",
-	"terminal.ansiBlack": "#161b26",
-	"terminal.ansiRed": "#ed8274",
-	"terminal.ansiGreen": "#a6cc70",
-	"terminal.ansiYellow": "#fad07b",
-	"terminal.ansiBlue": "#6dcbfa",
-	"terminal.ansiMagenta": "#cfbafa",
-	"terminal.ansiCyan": "#90e1c6",
-	"terminal.ansiWhite": "#c7c7c7",
-	"terminal.ansiBrightBlack": "#686868",
-	"terminal.ansiBrightRed": "#f28779",
-	"terminal.ansiBrightGreen": "#bae67e",
-	"terminal.ansiBrightYellow": "#ffd580",
-	"terminal.ansiBrightBlue": "#73d0ff",
-	"terminal.ansiBrightMagenta": "#d4bfff",
-	"terminal.ansiBrightCyan": "#95e6cb",
-	"terminal.ansiBrightWhite": "#ffffff",
-	"editorGroup.emptyBackground": "#232834"
 },
 "editor.tokenColorCustomizations": {
 	"textMateRules": [{
